@@ -36,7 +36,7 @@ button {
   color: black;
 }
 
-#button-two {
+button-two {
   height: 30px;
   width: 60px;
   border-radius: 10px;
@@ -44,7 +44,7 @@ button {
   color: black;
 }
 
-button, button-two:hover {  
+button;button-two:hover {  
   color:white;
   background:red;
 }
