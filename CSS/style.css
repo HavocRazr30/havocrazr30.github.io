@@ -17,13 +17,13 @@ nav {
   background:#cccccc;
   height: 600 px;
   width: 120px;
-  float:left;
+  float: left;
   padding: 5px;
 }
 
 section {
   width: 330px;
-  float:left;
+  float: left;
   padding: 15 px;
 }
 
@@ -44,8 +44,3 @@ a:hover {
   color:yellow;
 }
 
-img {
-  border-radius: 100px;
-  height: 200px;
-  width: 200px;
-}
