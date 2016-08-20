@@ -36,7 +36,13 @@ button {
   color: black;
 }
 
-
+button .two {
+  height: 30px;
+  width: 60px;
+  border-radius: 10px;
+  background: purple;
+  color: white;
+}
 
 button:hover {  
   color:white;
