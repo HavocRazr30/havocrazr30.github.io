@@ -34,7 +34,11 @@ button {
   border-radius: 10px;
   background: gray;
   color: black;
-  href: url("http://www.wrc.com");
+}
+
+button:hover {
+  color:white;
+  background:red;
 }
 
 footer {
