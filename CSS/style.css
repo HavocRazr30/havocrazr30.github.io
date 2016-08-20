@@ -32,7 +32,7 @@ button {
   height: 30px;
   width: 60px;
   border-radius: 10px;
-  background: #333300;
+  background: gray;
   color: black;
   href: url("http://www.wrc.com");
 }
