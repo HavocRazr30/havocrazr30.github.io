@@ -36,6 +36,14 @@ button {
   color: black;
 }
 
+#button-two {
+  height: 30px;
+  width: 60px;
+  border-radius: 10px;
+  background: gray;
+  color: black;
+}
+
 button:hover {
   color:white;
   background:red;
