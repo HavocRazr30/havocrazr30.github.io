@@ -14,7 +14,7 @@ header {
 
 nav {
   line-height: 50px;
-  background:#cccccc;
+  background: #cccccc;
   height: 600 px;
   width: 120px;
   float: left;
@@ -30,7 +30,7 @@ section {
 footer {
   background: blue;
   color: white;
-  clear both;
+  clear: both;
   text-align:center;
   padding: 5px;
 }
