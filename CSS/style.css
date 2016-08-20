@@ -44,7 +44,7 @@ button {
   color: white;
 }
 
-button:hover, #two {  
+button:hover, #two:hover {  
   color:white;
   background:red;
 }
