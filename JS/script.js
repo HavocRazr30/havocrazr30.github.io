@@ -1,10 +1,10 @@
 $(document).ready(function(){
   
   $('button').click(function()){
-    $('img').fadeOut('slow');
+    $('img').fadeOut(1000);
   });
   $('#button-two').click(function()}
-    $('img').fadeIn('slow');
+    $('img').fadeIn(1000);
   });
   
 });
