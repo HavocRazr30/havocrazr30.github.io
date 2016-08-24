@@ -14,4 +14,6 @@ $(document).ready(function(){
     $(this).css({"font-style":"italic","color":"red", "font-size":"30px"});
   });
   
+  $('h1').animate({left:'+=1000px'})
+  
 });
