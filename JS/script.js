@@ -8,7 +8,7 @@ $(document).ready(function(){
     $(this).css('background-image: url("https://static.pexels.com/photos/979/sand-summer-desert-car-large.jpg")','black');
   });
   
-  $(#'fancy-text').click(function(){
+  $('#fancy-text').click(function(){
     $(this).css({"font-style":"italic","color":"red", "font-size":"30px"});
   });
   
