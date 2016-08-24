@@ -6,7 +6,7 @@ $(document).ready(function(){
   $('p').fadeIn(2000);
   
   $('header').click(function(){
-    $(this).css('background-image: url("https://static.pexels.com/photos/979/sand-summer-desert-car-large.jpg")', 'green');
+    $(this).css('background-image', 'green');
   });
   
   $('#fancy-text').click(function(){
