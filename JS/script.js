@@ -4,8 +4,9 @@ $(document).ready(function(){
   });
   $('h1').fadeIn(5000);
   $('p').fadeIn(2000);
+  
   $('header').click(function(){
-    $(this).css('background-image: url("https://static.pexels.com/photos/979/sand-summer-desert-car-large.jpg")','black');
+    $(this).css('background-color','gray');
   });
   
   $('#fancy-text').click(function(){
