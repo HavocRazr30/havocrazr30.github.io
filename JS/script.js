@@ -7,7 +7,7 @@ $(document).ready(function(){
   $('p').fadeIn(2000);
   
   $('header').click(function(){
-    $('header').toggle('background-color', 'green');
+    $('header').css('background-color', 'green');
   });
   
   $('#fancy-text').click(function(){
