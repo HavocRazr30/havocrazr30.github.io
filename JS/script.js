@@ -6,7 +6,7 @@ $(document).ready(function(){
   $('p').fadeIn(2000);
   
   $('header').click(function(){
-    $('header').css('background-image','gray');
+    $('header').css('background-image','img src="https://static.pexels.com/photos/69020/pexels-photo-69020-medium.jpeg"');
   });
   
   $('#fancy-text').click(function(){
