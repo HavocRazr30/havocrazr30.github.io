@@ -11,9 +11,9 @@ $(document).ready(function(){
   });
   
   $('#fancy-text').click(function(){
-    $(this).css({"font-style":"italic","color":"red", "font-size":"30px"},2000);
+    $(this).css({"font-style":"italic","color":"red", "font-size":"30px"});
   });
   
-  $('h1').animate({left:'+=1000px'})
+  $('h1').animate({left:'+=500px'}, 2000)
   
 });
