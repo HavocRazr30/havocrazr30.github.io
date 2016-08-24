@@ -11,7 +11,7 @@ $(document).ready(function(){
   });
   
   $('#fancy-text').click(function(){
-    $(this).css({"font-style":"italic","color":"red", "font-size":"30px"});
+    $(this).css({"font-style":"italic","color":"red", "font-size":"30px"},2000);
   });
   
   $('h1').animate({left:'+=1000px'})
