@@ -1,6 +1,3 @@
-title {  
-    text-decoration-color: white;  
-}
 
 body {   
     width: 100%;
@@ -17,7 +14,7 @@ html {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: url('');
+    background: url('https://static.pexels.com/photos/932/road-street-desert-industry.jpg');
 }
 
 #modal-pic {
