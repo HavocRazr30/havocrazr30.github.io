@@ -1,8 +1,11 @@
+title {
+    text-color:#fff;
+}
+
 body {   
     width: 100%;
     height: 100%;
     font-family: "Raleway";
-    font-color:#fff;
 }
 
 html {
@@ -15,7 +18,6 @@ html {
     padding-top: 150px;
     text-align: center;
     background: url('');
-    text-color:#fff;
 }
 
 #modal-pic {
