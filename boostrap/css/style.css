@@ -15,6 +15,7 @@ html {
     padding-top: 150px;
     text-align: center;
     background: url('https://static.pexels.com/photos/932/road-street-desert-industry.jpg');
+    background-size: cover;
 }
 
 #modal-pic {
