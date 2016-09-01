@@ -30,3 +30,10 @@ li a {
     text-decoration: none;
     text-shadow:1px 1px #1a1a1a;
 }
+
+.bottomright {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 18px;
+}
