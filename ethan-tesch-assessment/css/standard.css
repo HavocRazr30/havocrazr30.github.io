@@ -1,6 +1,6 @@
 /* css file */
 body {   
-  background: url('..images/playful-kitten-6683.jpg');
+  background: url('../images/playful-kitten-6683.jpg');
   background-size: cover;  
   font-family: 'Montserrat', sans-serif;
   font-size: 27px;
