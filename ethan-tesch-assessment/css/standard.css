@@ -10,3 +10,7 @@ span {
   font-family: 'Montserrat', sans-serif;
   color: orange;
 }
+
+img {
+  vertical-align: text-top;
+}
