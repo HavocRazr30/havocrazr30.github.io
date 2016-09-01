@@ -31,7 +31,7 @@ li a {
     text-shadow:1px 1px #1a1a1a;
 }
 
-.bottomright {
+/*.bottomright {
     position: absolute;
     bottom: 16px;
     right: 16px;
