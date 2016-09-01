@@ -32,8 +32,8 @@ li a {
 }
 
 .bottomright {
-    position: relative;
-    bottom: 8px;
+    position: absolute;
+    bottom: 16px;
     right: 16px;
     font-size: 18px;
 }
