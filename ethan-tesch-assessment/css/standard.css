@@ -4,7 +4,7 @@ body {
   background-size: cover;  
   font-family: 'Montserrat', sans-serif;
   font-size: 27px;
-  background: red;
+  background: #fff;
 }  
 
 span {
@@ -19,4 +19,4 @@ img {
   height: 75%;
 }
 
-<p style="text-align:right">
+
