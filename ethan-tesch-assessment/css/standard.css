@@ -2,9 +2,10 @@
 body {
   background: url('https://static.pexels.com/photos/4602/jumping-cute-playing-animals-medium.jpg');
   background-size: cover;  
+  font-family: 'Montserrat';
 }  
 
 span {
   font-family: 'Montserrat', sans-serif;
-  font-color: orange;
+  font-decoration: orange;
 }
