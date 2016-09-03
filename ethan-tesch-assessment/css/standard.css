@@ -37,3 +37,11 @@ li a {
     right: 20px;
     font-size: 30px;
 }
+
+.button {
+display: none;
+position: absolute;
+top: 50%;
+left:50%;
+transform: translate(-50%, -50%);
+}
