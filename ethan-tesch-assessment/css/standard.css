@@ -56,5 +56,6 @@ li a {
 }
 
 .popup {
-  display: block;
+    display: none;
+    position: fixed; 
 }
