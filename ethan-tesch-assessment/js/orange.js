@@ -1,4 +1,4 @@
 //jquery file
-$("#schedule").click(function() {
+$(".schedule").click(function() {
    $("#popup").fadeIn(250);
 });
