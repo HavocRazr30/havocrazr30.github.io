@@ -55,7 +55,7 @@ li a {
     text-shadow:2px 2px #1a1a1a;
 }
 
-.popup {
+.mymodal {
     display: none;
     position: fixed; 
 }
