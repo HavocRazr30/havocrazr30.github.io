@@ -54,3 +54,7 @@ transform: translate(-50%, -50%);
     text-decoration: none;
     text-shadow:2px 2px #1a1a1a;
 }
+
+.popup {
+  display: hide;
+}
