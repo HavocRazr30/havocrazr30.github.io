@@ -46,7 +46,7 @@ left:50%;
 transform: translate(-50%, -50%);
 }
 
-.#schedule {
+schedule {
     display: block;
     color: orange;
     text-align: center;
