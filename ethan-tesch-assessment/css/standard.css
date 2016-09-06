@@ -39,11 +39,11 @@ li a {
 }
 
 .button {
-    display: none;
-    position: absolute;
-    top: 50%;
-    left:50%;
-    transform: translate(-50%, -50%);
+display: none;
+position: absolute;
+top: 50%;
+left:50%;
+transform: translate(-50%, -50%);
 }
 
 .schedule {
@@ -55,3 +55,6 @@ li a {
     text-shadow:2px 2px #1a1a1a;
 }
 
+.popup {
+  display: none;
+}
